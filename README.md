@@ -2,7 +2,7 @@
 
 * ### 1.食谱页面  
 
-![食谱页面](https://github.com/YYPyyp/web_result/blob/master/web/recipe.png)
+<!--![食谱页面](https://github.com/YYPyyp/web_result/blob/master/web/recipe.png)-->
 <img src="https://github.com/YYPyyp/web_result/blob/master/web/recipe.png">
 * ### 2.电影宣传海报  
 
