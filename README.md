@@ -3,9 +3,9 @@
 * ### 1.食谱页面  
 
 ![食谱页面](https://github.com/YYPyyp/web_result/blob/master/web/recipe.png)
-* ### 2.电影宣传海报  
+* ### 2.电影评价页面  
 
-![电影宣传海报](https://github.com/YYPyyp/web_result/blob/master/web/generaloverview.png)
+![电影评价页面](https://github.com/YYPyyp/web_result/blob/master/web/movie_comment.png)
 * ### 3.网页计算器 
  
 ![自制网页计算器](https://github.com/YYPyyp/web_result/blob/master/web/calculator.png)
