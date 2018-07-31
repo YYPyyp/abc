@@ -16,3 +16,6 @@
 
 ![520表白](https://github.com/YYPyyp/web_result/blob/master/web/520_1.png)
 ![](https://github.com/YYPyyp/web_result/blob/master/web/520_2.png)
+* ### 6.bootstrap组件应用
+
+![bootstrap组件](https://github.com/YYPyyp/web_result/blob/master/web/bootstrap-module.png)
