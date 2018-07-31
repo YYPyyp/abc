@@ -22,3 +22,6 @@
 * ### 7.bootstrap注册登录页面
 
 ![bootstrap-loginPage](https://github.com/YYPyyp/web_result/blob/master/web/login-page.png)
+* ### 8.canvas-clock
+
+![canvas-clock](https://github.com/YYPyyp/web_result/blob/master/web/canvas-clock.png)
