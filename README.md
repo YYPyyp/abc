@@ -19,3 +19,6 @@
 * ### 6.bootstrap组件应用
 
 ![bootstrap组件](https://github.com/YYPyyp/web_result/blob/master/web/bootstrap-module.png)
+* ### 7.bootstrap注册登录页面
+
+![bootstrap-loginPage](https://github.com/YYPyyp/web_result/blob/master/web/login-page.png)
