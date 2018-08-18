@@ -18,7 +18,8 @@
 ![](https://github.com/YYPyyp/web_result/blob/master/web/520_2.png)
 * ### 6.bootstrap组件应用 [资源链接](https://github.com/YYPyyp/bootstrap-module)
 
-![bootstrap组件](https://github.com/YYPyyp/web_result/blob/master/web/bootstrap-module.png)
+![bootstrap组件](https://github.com/YYPyyp/web_result/blob/master/web/bootstrap-module1.png)
+![](https://github.com/YYPyyp/web_result/blob/master/web/bootstrap-module2.png)
 * ### 7.bootstrap注册登录页面 [资源链接](https://github.com/YYPyyp/bootstrap-form)
 
 ![bootstrap-loginPage](https://github.com/YYPyyp/web_result/blob/master/web/login-page.png)
